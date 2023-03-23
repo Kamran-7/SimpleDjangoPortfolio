@@ -19,6 +19,8 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
         
 ### Step 3
      python manage.py runserver
+     
+ -Kamran_Sharief
 
   
 
